@@ -1,0 +1,20 @@
+Private eye: Megvii exec on power of AI amid pandemic 
+2020-05-28 06:40 
+http://www.chinadaily.com.cn/a/202005/28/WS5eceec41a310a8b241158f2c.html
+
+
+
+
+Xie Yinan, vice-president of Megvii. [Photo provided to chinadaily.com.cn] 
+Editor's Note: As the novel coronavirus outbreak has been gradually contained in China, China Daily website has invited several executives from Chinese private firms to share their views and experiences fighting the coronavirus, limiting the outbreak's impact on their companies and their business strategies this year. This series hopes to provide insight into how China has taken supportive measures to help private enterprises deal with the epidemic.
+1. How has the novel coronavirus affected your industry and business in China? What measures have you taken to deal with the situation?
+The COVID-19 revealed real AI demands and scenarios, and also put forward a challenge to AI companies on their technologies.
+In the early stage of the outbreak, Megvii's R&D team proposed an AI-enabled temperature detection solution that integrates body detection, face detection and dual sensing via infrared cameras and visible light, under the united management of the Beijing Haidian district government and the management committee of Zhongguancun Science City.
+The technology is designed to help staff members at locations with high-density passenger flow, such as train stations, bus stations, metro stations and airports, to rapidly identify people who may have abnormal body temperatures without close physical contact, improving passing efficiency and controllability in open places.
+At present, this system has been deployed in some hospitals, supermarkets, campuses and offices in major cities, including Beijing and Nanjing.
+2. Are supportive measures from the government and financial bodies helpful to your enterprise?
+Here is a specific example. Our supply chain faced great challenges in finding infrared thermal imagery modules after we finished the software and hardware designs of AI temperature measurement equipment. The Haidian district government, the government of Beijing municipality and the Ministry of Industry and Information Technology helped us coordinate with relevant departments and search for supply chain manufacturers, so we could roll out our product in time.
+3. What expectations do you have for your company's business in the future?
+After the outbreak of SARS and COVID-19, people will see regular epidemic prevention and control measures -- which are enabled by the development of technology. At present, in densely populated places such as airports, railway stations and metro stations, body temperature measurement equipment has been installed and used during daily security inspections. We believe technology can make the epidemic control more efficient, convenient and at a low cost.
+4. What are your views on the Chinese government's measures to curb and prevent COVID-19 and to stabilize the economy?
+As a technology start-up, we have seen a series of national and local supporting measures for enterprises, which not only guarantee companies' daily work, but also enhance our confidence in fighting the disease.
