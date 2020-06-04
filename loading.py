@@ -21,7 +21,7 @@ def getIndex(path: str):
         filelist = os.listdir(dir)
         index = dict()
         for filename in filelist:
-            with open(dir + "/" + filename, encoding="UTF-8") as fp:
+            with open(dir + "/" + filename, encoding="UTF-8-sig") as fp:
                 title = fp.readline()[:-1]  # 读一行并去掉最后的换行符
                 time = fp.readline()[:-1]
                 url = fp.readline()[:-1]
@@ -48,7 +48,7 @@ def getIndex(path: str):
 # 加载doc对应的文章，获取time、url、context
 def getfile(path: str, doc: str,tokens:list):
     path += "\data\\"
-    with open(path + doc + ".txt", encoding="UTF-8") as file:
+    with open(path + doc + ".txt", encoding="UTF-8-sig") as file:
         file.readline()
         time = file.readline()
         time = time.strip('\n')

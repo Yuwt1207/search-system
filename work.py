@@ -27,7 +27,7 @@ if __name__ == '__main__':
         #输入单词预处理
         tokens = stemming.stemmer_lemma(tokens_tag)
         tokens=[word.lower() for word in tokens if word.isalpha()]
-        # print(tokens)
+        print(tokens)
         #查询相关文件集合
         docset = searching.search(wordindex, tokens)
         #获取文件对应的分数（最高分的k个）
